@@ -14,5 +14,5 @@ Our Model performs fairly well with an accuracy of 99% and an F1 Score of 95% an
 * [SKLearn](https://scikit-learn.org/stable/)
 * [Flask](https://flask.palletsprojects.com/en/2.0.x/)
 * [Swagger UI](https://swagger.io/tools/swagger-ui/)
-## Credit For Dataset
+## Dataset Credit
 * [Kaggle](https://www.kaggle.com/)
