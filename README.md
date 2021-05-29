@@ -14,5 +14,5 @@ Our Model performs fairly well with an accuracy of 99% and an F1 Score of 95% an
 * [SKLearn](https://scikit-learn.org/stable/)
 * [Flask](https://flask.palletsprojects.com/en/2.0.x/)
 * [Swagger UI](https://swagger.io/tools/swagger-ui/)
-## Credit
-* The Dataset For this Project is downloaded from ![Kaggle](kaggle datasets download -d ritesaluja/bank-note-authentication-uci-data)
+## Credit For Dataset
+* [Kaggle](kaggle datasets download -d ritesaluja/bank-note-authentication-uci-data)
